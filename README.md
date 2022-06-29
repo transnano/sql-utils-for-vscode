@@ -1,0 +1,1 @@
+# sql-utils-for-vscode
